@@ -1,0 +1,12 @@
+A simple Tic Tac Toe game built using programming fundamentals. This project allows two players to play alternately on a 3×3 grid. The game automatically checks for a winner or a draw after every move.
+
+Features
+Two-player gameplay (X and O)
+Input validation
+Win detection (rows, columns, and diagonals)
+Draw detection
+Simple and user-friendly interface
+Player X starts first.
+Players take turns placing their mark on the board.
+The first player to align three marks horizontally, vertically, or diagonally wins.
+If all cells are filled without a winner, the game ends in a draw.
